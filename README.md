@@ -36,7 +36,7 @@
   </h2>
 
   <div>
-    <img src="./assets/html.gif" width="50px" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfK5L5m7vj6Vp922kVvq1NEl5jBbIPOvwllA&usqp=CAU" width="50px" />
     <img src="./assets/css.gif" width="50px" />
     <img src="./assets/js.gif" width="50px" />
     <img src="./assets/react.gif" width="50px" />
